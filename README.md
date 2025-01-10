@@ -15,6 +15,8 @@ Welcome to the Pomodoro Timer App! This application is designed to help you mana
 2. Take a Short Break: After the work session ends, take a 5-minute break.
 3. Repeat: Continue this cycle until all your tasks are completed.
 4. Take a Long Break: After four work sessions, take a longer break of 15 to 30 minutes.
+# A very important point about this technique 
+      don't focus on the task only focus on the time
 # view:
 ![image](https://github.com/user-attachments/assets/e1a4c6f2-8332-49a5-8600-1c659d9abf46)
 ![image](https://github.com/user-attachments/assets/d16e9aca-e9de-45bb-a74a-8a6cc5bf6d49)
